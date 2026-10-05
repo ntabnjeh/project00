@@ -1,5 +1,29 @@
-commit b1c33cb559af3996c6f4e4f27e901a84df954c7d
+commit 19f1c478a58c64e757f4d7a6e5f331be0169f3db
 Author: nour <nourtabanjeh@gmail.com>
-Date:   Sun Oct 4 00:15:23 2026 +0300
+Date:   Mon Oct 5 11:22:12 2026 +0300
 
-    push file hello.txt
+    fix: edit like it shuld be
+
+commit d6178e235321a5fb31fb183e96e28bbb0246f266
+Author: nour <nourtabanjeh@gmail.com>
+Date:   Mon Oct 5 10:43:50 2026 +0300
+
+    Keep ex02 only in discovery-web-piscine
+
+commit 0eeb663edc0263787aa3651ffa7574cfd4d38117
+Author: nour <nourtabanjeh@gmail.com>
+Date:   Mon Oct 5 10:13:45 2026 +0300
+
+    Fix submodules and add full exercise folders
+
+commit d37eb5f1e762ee0406aad1e3a5e05a39d7330829
+Author: nour <nourtabanjeh@gmail.com>
+Date:   Mon Oct 5 09:56:46 2026 +0300
+
+    the first amendment
+
+commit e72049f53dc4dcabda78667f581a8c280f68edd9
+Author: nour <nourtabanjeh@gmail.com>
+Date:   Sun Oct 4 23:16:25 2026 +0300
+
+    add ex02/03 together
